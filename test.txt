@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-snapshot master addition online main
-=======
-snapshot addition hotfix
->>>>>>> hotfix
+
+snapshot master addition online main v2
